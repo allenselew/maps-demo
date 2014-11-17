@@ -12,3 +12,7 @@ body {
 #locating-message img {
     vertical-align: middle;
 }
+
+.gm-style-iw div {
+ 	overflow: hidden !important; 
+ }
